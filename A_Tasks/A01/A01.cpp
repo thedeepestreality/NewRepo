@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-	setlocale(LC_ALL, "RUS");
 	int time1[3], time2[3] = { 0 }; //массивы для моментов времени
 
 	cout << "Время 1: " << endl;
@@ -44,6 +43,7 @@ int main()
 		}
 	}
 	
+		int t = 0; //Added new variable for time
 		system("pause");
 		return 0;
 	
