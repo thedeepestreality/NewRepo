@@ -43,6 +43,8 @@ int main()
 			cout << "Разница: " << (time3[0]) << " часов, " << (time3[1]) << " минут, " << (time3[2]) << " секунд." << endl;
 		}
 	}
+	
+		int t = 0; //Added new variable for time
 		system("pause");
 		return 0;
 	
