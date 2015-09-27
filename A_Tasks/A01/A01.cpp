@@ -44,7 +44,6 @@ int main()
 		}
 	}
 	
-		int t = 0; //Added new variable for time
 		system("pause");
 		return 0;
 	
